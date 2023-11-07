@@ -100,6 +100,7 @@ class MGSNameGenerator {
         };
         // merge options with any user passed values overriding the defaults
         options = {...defaultOptions, ...options}
+        // console.log(options)
 
         const categories = [
             {category: this.adjective_list, weight: options.adj_chance},

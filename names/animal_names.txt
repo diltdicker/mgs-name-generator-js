@@ -151,6 +151,7 @@ halibut
 hammerkop
 hamster
 hare
+canary
 harrier
 hawk
 hedgehog

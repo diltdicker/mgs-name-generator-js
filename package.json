@@ -1,9 +1,9 @@
 {
   "name": "mgs-name-generator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "MGS inspired name generator library and Node package",
   "bin": {
-    "mgs-name-gen": "./bin/bin.js"
+    "mgs-name-generator": "./bin/bin.js"
   },
   "main": "lib.js",
   "scripts": {
