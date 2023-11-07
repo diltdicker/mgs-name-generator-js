@@ -1,11 +1,11 @@
 {
   "name": "mgs-name-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Metal Gear Solid inspired name generator CLI and Node package library",
   "bin": {
     "mgs-name-generator": "./bin/bin.js"
   },
-  "main": "lib.js",
+  "main": "./src/lib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
