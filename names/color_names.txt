@@ -1,3 +1,4 @@
+olive
 aqua
 aquamarine
 azure
@@ -22,7 +23,6 @@ lavender
 lime
 magenta
 maroon
-olive
 orange
 orchid
 pale
