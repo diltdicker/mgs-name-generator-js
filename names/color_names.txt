@@ -34,7 +34,6 @@ red
 rose
 sienna
 silver
-snow
 tan
 teal
 turquoise

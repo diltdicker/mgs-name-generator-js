@@ -21,7 +21,6 @@ barracuda
 bass
 bat
 bateleur
-bazadais
 beagle
 bear
 beaver
@@ -161,6 +160,7 @@ hippo
 hippopotamus
 hoatzin
 hog
+muskrat
 holstein
 hornet
 horse
@@ -281,7 +281,6 @@ porcupine
 porpoise
 possum
 potoroo
-prion
 pronghorn
 ptarmigan
 puffin
@@ -329,7 +328,6 @@ snail
 snake
 snipe
 snowcock
-sora
 sparrow
 sparrowhawk
 spider
