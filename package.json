@@ -13,5 +13,9 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^11.1.0"
+  },
+  "homepage": "https://github.com/diltdicker/mgs-name-generator-js/tree/master#mgs-style-name-generator",
+  "repository": {
+    "url": "https://github.com/diltdicker/mgs-name-generator-js"
   }
 }
