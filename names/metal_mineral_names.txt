@@ -12,7 +12,7 @@ diamond
 emerald
 gallium
 garnet
-golden
+gold
 iridium
 iron
 jade

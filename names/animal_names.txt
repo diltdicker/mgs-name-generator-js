@@ -1,13 +1,11 @@
 aardvark
 adder
 agama
-akaushi
 albatross
 alligator
 alpaca
 anaconda
 angler
-angus
 anhinga
 ant
 anteater
@@ -29,7 +27,6 @@ bear
 beaver
 bee
 beetle
-besra
 bidon
 bison
 bittern
@@ -44,7 +41,7 @@ bull
 bulldog
 bunny
 bushpig
-bustard
+korhaan
 butterfly
 buzzard
 calamari
@@ -145,10 +142,8 @@ goshawk
 grasshopper
 grebe
 griffon
-galictis
 grizzly
 grouse
-guan
 guanaco
 gull
 gyrfalcon
@@ -187,8 +182,6 @@ kagu
 kangaroo
 kea
 kestrel
-killdeer
-kingi
 kinkajou
 kite
 kiwi
@@ -234,7 +227,6 @@ marmoset
 marmot
 mastiff
 mastodon
-medaka
 meerkat
 mesite
 millipede
@@ -266,8 +258,7 @@ otter
 owl
 ox
 oyster
-paca
-pajuna
+rodent
 panda
 pangolin
 panther
@@ -307,7 +298,6 @@ rat
 rattlesnake
 raven
 ray
-recluse
 redshank
 reindeer
 rhino
@@ -332,7 +322,6 @@ shark
 sheep
 shrew
 shrimp
-sindhi
 skunk
 sloth
 slug

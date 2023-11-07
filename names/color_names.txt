@@ -5,7 +5,6 @@ beige
 black
 blue
 brown
-burlywood
 chartreuse
 chiffon
 chocolate
@@ -13,7 +12,7 @@ coral
 crimson
 cyan
 fuchsia
-gold
+golden
 gray
 green
 indigo
