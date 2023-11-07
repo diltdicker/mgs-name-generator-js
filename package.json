@@ -1,6 +1,6 @@
 {
   "name": "mgs-name-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Metal Gear Solid inspired name generator CLI and Node package library",
   "bin": {
     "mgs-name-generator": "./bin/bin.js"
@@ -18,5 +18,5 @@
   "repository": {
     "url": "https://github.com/diltdicker/mgs-name-generator-js"
   },
-  "keywords": ["metal gear solid", "mgs", "mgsv", "metal-gear-solid"]
+  "keywords": ["metal gear solid", "mgs", "mgsv", "metal-gear-solid", "name-generator", "name generator"]
 }
