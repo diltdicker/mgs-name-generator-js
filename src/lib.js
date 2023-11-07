@@ -93,7 +93,7 @@ class MGSNameGenerator {
             adj_chance:1.0,
             clr_chance:0.5,
             emo_chance:0.5,
-            per_chance:1.2,
+            per_chance:1.7,
             sta_chance:0.1,
             met_chance:0.5, 
             number_suffix:null

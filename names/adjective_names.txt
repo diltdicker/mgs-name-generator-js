@@ -223,7 +223,6 @@ soaking
 soaring
 sorrowing
 sparkling
-speaking
 sprawling
 squeaking
 squealing
@@ -309,3 +308,4 @@ upsetting
 vanishing
 vexing
 yawning
+naked
