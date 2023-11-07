@@ -1,6 +1,6 @@
 # MGS Style Name Generator
 
-CLI and node package for generating name in the style of MGS: e.g. blue-heron, vaperous-kiwi-8904
+CLI and node package for generating name in the style of MGS: e.g. `blue-heron`, `vaperous-kiwi-8904`
 
 ## Node Package
 
